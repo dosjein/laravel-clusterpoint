@@ -5,9 +5,13 @@
     "version": "4.0.6",
     "keywords": ["clusterpoint","api","database","nosql","php","jssql", "laravel"],
     "homepage": "https://www.clusterpoint.com/",
+    {
+    "type": "git",
+     "url": "https://github.com/dosjein/laravel-clusterpoint.git"
+    },
     "require": {
       "php": ">=5.4",
-      "clusterpoint/php-client-api-v4": "^4.0.2"
+      "clusterpoint/php-client-api-v4": "dev-master"
     },
     "authors": [
       {
